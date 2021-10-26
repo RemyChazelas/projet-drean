@@ -1,4 +1,5 @@
-import Contact from "./contact/Contact";
+import About from "./about/About";
+import Blog from "./blog/Blog";
 import Footer from "./footer/Footer";
 import Home from "./home/Home";
 import Project from "./project/Project";
@@ -12,7 +13,8 @@ function App() {
       <Home />
       <Project />
       <Service />
-      <Contact />
+      <About />
+      <Blog />
       <Footer />
     </div>
   );

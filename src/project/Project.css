@@ -33,7 +33,7 @@ img.project__img::after {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: #f9004d;
+  background-color: #000000;
   border-radius: 10px;
   transition: 1s;
   opacity: 0.3;

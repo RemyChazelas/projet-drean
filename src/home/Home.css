@@ -46,7 +46,7 @@ h4.home__text {
 }
 .home__img {
   border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
-  animation: morph 10s ease-in-out infinite 2s;
+  animation: morph 10s ease-in-out infinite 1s;
   background-color: rgb(0, 0, 0);
   height: 500px;
   width: 500px;
